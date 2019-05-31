@@ -1,6 +1,6 @@
 # My first webpage for week1 project at Epicodus course
 
-#### _{Small blog style html file writing}, {05/31/2019}_
+#### Small blog style html file writing, 05/31/2019
 
 #### By _**{Tae Lee}**_
 
