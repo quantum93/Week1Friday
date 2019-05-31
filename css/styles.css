@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+  text-align: auto;
+  /* font: 48px; */
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+img {
+  float: center;
+}
+
+.main_column {
+  width: auto;
+  /* border: 1px */
+  float: center;
+}
+
+.about_column {
+  width: auto;
+  /* border: 1px */
+  float: center;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
