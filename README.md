@@ -10,6 +10,7 @@ _{practice html tags and css styling with some basic functions}_
 
 ## Setup/Installation Requirements
 
+* find it on https://github.com/quantum93/Week1Friday.git
 * open any web browser to see content of html page
 
 _{You don't need any server, database or specific OS to run it.}_

@@ -3,23 +3,47 @@ h1 {
   text-align: auto;
   /* font: 48px; */
   font-family: sans-serif;
-  font-style: italic;
 }
 
 img {
-  float: center;
+  float: auto;
+  border: 4px solid grey;
+  padding: 4px;
+  margin: 12px;
 }
 
+.intro_column {
+  width: auto;
+  /* border: 1px */
+  float: center;
+  border: 4px solid green;
+  padding: 4px;
+  margin: 12px;
+}
+
+.intro_column p {
+  font-style: italic;
+}
 .main_column {
   width: auto;
   /* border: 1px */
   float: center;
+  border: 4px solid blue;
+  padding: 4px;
+  margin: 12px;
 }
 
 .about_column {
   width: auto;
   /* border: 1px */
   float: center;
+  border: 4px solid red;
+  padding: 4px;
+  margin: 12px;
+}
+.about_column h2 {
+  font-style: oblique;
+  color: Green
 }
 
 @media screen and (max-width: 768px) {
