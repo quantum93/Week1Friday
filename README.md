@@ -12,20 +12,21 @@ _{practice html tags and css styling with some basic functions}_
 
 * find it on https://github.com/quantum93/Week1Friday.git
 * open any web browser to see content of html page
+* click here : https://quantum93.github.io/Week1Friday/
 
-_{You don't need any server, database or specific OS to run it.}_
+You don't need any server, database or specific OS to run it.
 
 ## Known Bugs
 
-_{hopefully no bugs on your application}_
+hopefully no bugs on your application
 
 ## Support and contact details
 
-_{contact me via email:taebumlee@gmail.com if you have any problem or issues to use it}_
+contact me via email:taebumlee@gmail.com if you have any problem or issues to use it
 
 ## Technologies Used
 
-_{HTML5 with css style file including some images and link}_
+HTML5 with css style file including some images and link
 
 ### License
 GNU GENERAL PUBLIC LICENSE
